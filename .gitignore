@@ -1,0 +1,50 @@
+
+# Inspired by https://gist.github.com/mahdi/1119793 and https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+
+# Visual Studio Files
+[Bb]in    
+[Oo]bj    
+[Dd]ebug  
+[Bb]uild/ 
+*.user
+*.suo
+*.exe
+*.pdb
+*.aps
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.[Cc]ache
+*.bak
+*.ncb
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/ 
+*.dbmdl
+*.csproj.user
+*.cache
+*.swp
+*.vspscc
+*.vssscc
+*.bak.*
+*.bak
+
+# Preference Files
+*.plist
+
+# Backupfiles
+*~
+
+# Mac-specific .DS_Store file
+.DS_Store
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Other
+[Tt]humbs.db
